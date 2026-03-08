@@ -8,11 +8,13 @@
 **/.venv/
 **/__pycache__/
 *.pyc
+*.db
 
 # Environment and local secrets
 **/.env
 **/.env.local
 **/.env.*.local
+**/uploads/
 
 # OS/editor noise
 .DS_Store
